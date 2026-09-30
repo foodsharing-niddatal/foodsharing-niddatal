@@ -71,7 +71,9 @@ section{padding:3.5rem 0}
 .card{background:var(--weiss);border-radius:var(--radius);padding:1.5rem;border-top:6px solid var(--gruen)}
 .alt .card{background:var(--weiss)}
 .card p:last-child{margin-bottom:0}
-.card .btn{margin-top:1rem}
+.card{display:flex;flex-direction:column}
+.card .btn{margin-top:auto;align-self:flex-start}
+.card .photo+h3{margin-top:0}
 
 /* Hero */
 .hero{padding:2.5rem 0 3.5rem}
@@ -113,3 +115,18 @@ section{padding:3.5rem 0}
 .legal h1{font-size:clamp(1.8rem,4.5vw,2.5rem);margin-bottom:1.5rem}
 .legal h2{font-family:var(--font-text);font-weight:600;font-size:1.3rem;margin:2rem 0 .5rem}
 .legal address{font-style:normal;margin-bottom:1rem}
+
+/* Fotos */
+.hero-side{display:grid;gap:1.25rem}
+.photo{margin:0 0 1rem}
+.hero-side .photo{margin:0}
+.photo img{width:100%;height:auto;border-radius:var(--radius);background:var(--beige)}
+.photo figcaption{font-size:.8rem;color:var(--braun-soft);margin-top:.35rem}
+
+/* Zahlen und Zitat */
+.stat-no{font-family:var(--font-schmuck);font-size:clamp(1.9rem,4vw,2.5rem);line-height:1.1;margin:0 0 .4rem}
+.stat p:last-child{margin:0}
+.quote{margin:2rem 0 0;background:var(--weiss);border-left:8px solid var(--gruen);border-radius:var(--radius);padding:1.5rem 1.75rem}
+.quote blockquote{margin:0}
+.quote blockquote p{font-size:1.25rem;line-height:1.5;margin:0 0 .75rem}
+.quote figcaption{font-size:.95rem;color:var(--braun-soft)}

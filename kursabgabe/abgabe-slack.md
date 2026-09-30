@@ -77,7 +77,16 @@ Alternativ dein eigener Screenshot über Stitch: Preview, Mobile.
 
 1. Übernommen habe ich aus der Recherche die Einwandbehandlung: Der häufigste Einwand meines Vereins („Bei uns kommt schon die Tafel“) steht im Hero-Untertitel und hat eine eigene Sektion, weil foodsharing.de ihn erst mitten im Text beantwortet, während die Tafel-Seite Kosten- und Entsorgungsvorteile schon weit oben nennt.
 2. Falsch gemacht habe ich, dass mein Bauplan nur erfundene Zahlen und Namen verbot: Stitch schrieb trotzdem Behauptungen wie „rechtssicher“ und „verifizierte Foodsaver:innen“ hinein, die ich erst am foodsharing-Wiki prüfen und ersetzen musste, und dabei habe ich vier statt der vorgesehenen höchstens zwei Änderungen gemacht.
-3. [Fünf-Sekunden-Test: Die Testperson hat gesagt: Angebot = ..., für wen = ..., was man tun soll = ... . Daraus folgt: ... .]
+3. Beim Fünf-Sekunden-Test (Person Ende 50, Handwerker) waren alle drei Antworten nur teilweise richtig („Lebensmittel“, „für die, die es nötig haben“, „meine Hilfe anbieten“): Das Thema kam an, aber nicht die Zielgruppe (Betriebe) und nicht die Handlung (Partnerbetrieb werden), vermutlich weil „Tafel“ und „kostenlos“ an Bedürftige denken lassen und „Betrieb“ erst am Ende der langen H1 steht, weshalb ich im nächsten Schritt „Für Bäckereien, Märkte und Gastronomie“ über die H1 setzen und „Die Tafel hat Vorrang“ aus dem Untertitel nehmen würde.
+
+---
+
+## Testergebnis (Rohdaten)
+
+Person: Ende 50, Handwerker.
+Frage 1 (Angebot): „Lebensmittel“. Treffer: teilweise.
+Frage 2 (für wen): „Für die, die es nötig haben“. Treffer: teilweise (gemeint sind Betriebe, verstanden wurden Bedürftige).
+Frage 3 (Handlung): „meine Hilfe anbieten“. Treffer: teilweise (gemeint ist Partnerbetrieb werden, verstanden wurde privates Helfen).
 
 ---
 

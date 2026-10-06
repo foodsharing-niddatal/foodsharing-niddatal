@@ -7,4 +7,4 @@ Statische Website (HTML/CSS, kein Build, keine Cookies, keine externen Schriften
 - `qr/` enthält die QR-Codes (Landingpage, Mailto Partnerbetrieb)
 - Logo und Marke: foodsharing-Netzwerk, Nutzung mit dessen Genehmigung
 
-Stand: Entwurf, Texte vor Veröffentlichung vom Vorstand prüfen lassen.
+Inhalte und Texte werden vom Vorstand freigegeben. Änderungen an Impressum, Datenschutz und Haftungsaussagen bitte im Vier-Augen-Prinzip (Pull Request).
